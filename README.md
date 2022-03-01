@@ -3,8 +3,7 @@
 <a href="https://www.facebook.com/tonpuedlove4">
   <img align="left" alt="Chaimongkol Kantib | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id${your.username}.${your.repo.id})
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id${your.username}.${your.repo.id})]
 
 <br/><br/>
 
