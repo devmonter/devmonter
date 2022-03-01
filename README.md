@@ -3,7 +3,9 @@
 <a href="https://www.facebook.com/tonpuedlove4">
   <img align="left" alt="Chaimongkol Kantib | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-![visitor](https://visitor-badge.glitch.me/badge?page_id=devmonter.devmonter)
+![](https://visitor-badge.glitch.me/badge?page_id=devmonter.devmonter)
+
+<br/>
 
 สวัสดีครับ ผมชื่อต้นพืช ยินดีต้อนรับสู่ Github Profile ของผม
 ใน Github นี้จะมีโปรเจ็ค FrontEnd ที่ฉันฝึกเขียน และโปรเจ็คที่ทำตอนเรียน
