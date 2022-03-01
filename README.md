@@ -12,6 +12,8 @@ My Github contains a FrontEnd project and projects during class.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id${your.username}.${your.repo.id})
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmonter=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <!--### Hi there 👋 -->
 
 <!--
