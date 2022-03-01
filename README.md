@@ -19,8 +19,6 @@ My Github contains a FrontEnd project and projects during class.
 ![github state](https://github-readme-stats.vercel.app/api?username=devmonter&count_private=true&show_icons=true&theme=dark)
 ![github state](https://github-readme-stats.vercel.app/api/top-langs/?username=devmonter&show_icons=true&theme=dark)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devmonter)
-
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id${your.username}.${your.repo.id})
 ### Hi there 👋
 
