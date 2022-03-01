@@ -6,7 +6,7 @@
 <br/><br/>
 
 สวัสดีครับ ผมชื่อต้นพืช ยินดีต้อนรับสู่ Github Profile ของผม
-ใน Github นี้จะมีโปรเจ็ค FrontEnd ที่ฉันฝึกเขียน และโปรเจ็คที่ทำตอนเรียน
+ใน Github นี้จะมีโปรเจ็ค FrontEnd ที่ฉันฝึกเขียน และโปรเจ็คที่ทำระหว่างเรียน
 
 My Github contains a FrontEnd project and projects during class.
 
