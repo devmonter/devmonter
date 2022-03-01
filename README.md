@@ -12,10 +12,9 @@ My Github contains a FrontEnd project and projects during class.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmonter&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id${your.username}.${your.repo.id})
-<!--### Hi there 👋 -->
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id${your.username}.${your.repo.id})
+### Hi there 👋
 
-<!--
 **devmonter/devmonter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
