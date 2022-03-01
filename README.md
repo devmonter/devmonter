@@ -18,6 +18,9 @@ My Github contains a FrontEnd project and projects during class.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmonter&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
+![github state](https://github-readme-stats.vercel.app/api?username=devmonter&count_private=true&show_icons=true&theme=radical)
+![github state](https://github-readme-stats.vercel.app/api/top-langs/?username=devmonter&show_icons=true&theme=radical)
+
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id${your.username}.${your.repo.id})
 ### Hi there 👋
 
